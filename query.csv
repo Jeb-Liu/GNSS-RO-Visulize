@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-26T12:02:21.110Z,-14.9076,-70.2924,236,7.2,mww,144,40,2.494,1.38,us,us7000hcmn,2022-08-02T19:50:53.040Z,"10 km W of Azángaro, Peru",earthquake,9.6,1.9,0.042,55,reviewed,us,us
+2022-03-31T05:44:01.146Z,-22.586,170.3744,10,7,mww,,26,2.705,0.82,us,us7000gymk,2022-06-04T20:42:27.040Z,southeast of the Loyalty Islands,earthquake,7.1,1.8,0.057,30,reviewed,us,us
+2022-03-16T14:36:30.997Z,37.7132,141.5793,41,7.3,mww,,29,2.936,0.88,us,us6000h519,2022-05-27T14:55:19.040Z,"57 km ENE of Namie, Japan",earthquake,6.9,1.9,0.054,33,reviewed,us,us
