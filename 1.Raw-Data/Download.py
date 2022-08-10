@@ -3,7 +3,7 @@ import csv
 import os
 
 # read csv as a list in current path [['a'],['b'],['c']]
-mag = 'M6'
+mag = 'M7'
 year = '2022'
 csvname = mag + '.' + year + 'DateList.csv'
 with open(csvname, newline='') as csvfile:
