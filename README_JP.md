@@ -1,5 +1,7 @@
 # GNSSデータを用いて津波電離圏ホールを探す
 
+## COSMIC-2の観測データを用いて
+
 2022年1月1日から発生したM7以上の地震を例として、実行手順は以下：
 
 1. [USGS](https://earthquake.usgs.gov/earthquakes/search/)に、2022年1月1日からM7以上の地震データをダウンロードする(query.csv)。
